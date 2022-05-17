@@ -1,8 +1,8 @@
 {
-  "version": "2.0.2",
-  "releaseUrl": "https://github.com/chakra-ui/chakra-ui/releases/tag/@chakra-ui/react@2.0.2",
+  "version": "2.0.3",
+  "releaseUrl": "https://github.com/chakra-ui/chakra-ui/releases/tag/@chakra-ui/react@2.0.3",
   "patches": [
-    "- Fix return value of color mode script \n"
+    "- Upgrade dependency react-focus-lock to be compatible with React 18 \n"
   ],
   "features": []
 }

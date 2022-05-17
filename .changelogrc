@@ -1,7 +1,7 @@
 ## 17-05-2022
 
-`@chakra-ui/react@2.0.2`
+`@chakra-ui/react@2.0.3`
 
-**Color Mode** `v2.0.2`
+**Focus Lock** `v2.0.1`
 
-- Fix return value of color mode script
+- Upgrade dependency react-focus-lock to be compatible with React 18
